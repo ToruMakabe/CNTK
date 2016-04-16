@@ -21,7 +21,7 @@
       "value": "yournamecntk"
     },
     "fileUris": {
-      "value": "https://gist.githubusercontent.com/ToruMakabe/feac5c0a3fa7c78f9749e3fe5469e496/raw/f63c8dc007a6295690ad638cf1bcd44fb1e503cb/cntkprov.sh"
+      "value": "https://gist.githubusercontent.com/ToruMakabe/feac5c0a3fa7c78f9749e3fe5469e496/raw/ebad2d6d5fa1f780235e863a261801539935bc9c/cntkprov.sh"
     },
     "commandToExecute": {
       "value": "sh cntkprov.sh"
