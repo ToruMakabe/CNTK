@@ -1,5 +1,5 @@
-# CNTK
-* Tooling for Microsoft CNTK
+# Tools for CNTK
+* Tools for Microsoft CNTK
 * deploy_singlenode
     * Azure ARM Template & Template parameter
       * deploy Linux VM
