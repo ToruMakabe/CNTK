@@ -244,7 +244,8 @@
         "count": "[parameters('numberOfInstances')]"
       },
       "dependsOn": [
-        "[concat('Microsoft.Compute/virtualMachines/', parameters('dnsLabelPrefix'), copyindex())]"
+        "[concat('Microsoft.Compute/virtualMachines/', parameters('dnsLabelPrefix'), copyindex())]",
+        "[concat('Microsoft.Compute/virtualMachines/', parameters('dnsLabelPrefix'), copyindex(),'/extensions/docker')]"
       ],
       "properties": {
         "publisher": "Microsoft.OSTCExtensions",
